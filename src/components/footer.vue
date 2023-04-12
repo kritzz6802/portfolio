@@ -13,11 +13,9 @@
                     <p>kirtikkoyani6802@gmail.com</p>
                 </div>
                 <div class="footer-social">
-                    <a href=""><i class="fab fa-twitter"></i></a>
-                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                    <a href=""><i class="fab fa-youtube"></i></a>
-                    <a href=""><i class="fab fa-instagram"></i></a>
-                    <a href=""><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://twitter.com/KoyaniKirti"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.instagram.com/_kritzz___/?next=%2F"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/kirti-koyani-7a00951a5"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>

@@ -91,7 +91,7 @@ export default {
                     <!-- <a href="#team" class="nav-item nav-link">Team</a> -->
                     <a href="#blog" class="nav-item nav-link">Projects</a>
                     <a href="#contact" class="nav-item nav-link">Contact</a>
-                    <a href="../../kirti_koyani_Resume_(1)/index.html" class="nav-item nav-link">Resume</a>
+                    <a href="../../kirti_resume/index.html" class="nav-item nav-link">Resume</a>
                 </div>
             </div>
         </div>
