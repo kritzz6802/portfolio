@@ -1,11 +1,11 @@
 <template>
-     <div class="blog" id="blog">
-        <div class="container">
+     <div class="blog" >
+        <div class="container" id="project">
             <div class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
                 <p>My Projects</p>
                 <h2>Latest Articles</h2>
             </div>
-            <div class="row">
+            <div class="row project">
                 <div class="col-lg-6">
                     <div class="blog-item wow fadeInUp" data-wow-delay="0.1s">
                         <div class="blog-img">

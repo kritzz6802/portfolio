@@ -18,7 +18,9 @@ body {
     gap: 20px;
     width: 100%;
 }
-
+.project{
+    width:auto !important;
+}
 h1,
 h2,
 h3,
@@ -1811,5 +1813,25 @@ a:focus {
         font-size: 16px;
         line-height: 16px;
         padding: 0 5px;
+    }
+    .navbar{
+        display: none;
+    }
+    .project_box {
+        max-width: 100%;
+        display:flex;
+        box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+        justify-content:center;
+    }
+    .team .team-item {
+        gap:50px;
+    }
+    .container {
+        padding-right: 0px;
+    }
+}
+@media (max-width: 900px) {
+    .navbar{
+        display: none;
     }
 }
